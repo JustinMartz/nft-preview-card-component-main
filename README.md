@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](./desktop-screenshot.png)
 
-![](.mobile-screenshot.png)
+![](./mobile-screenshot.png)
 
 ### Links
 
