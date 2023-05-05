@@ -41,6 +41,7 @@ img {
     width: 100%;
     max-width: 330px;
     height: 80vh;
+    max-height: 533px;
     padding: 1.25rem;
     border-radius: 15px;
     background-color: hsl(216, 50%, 16%);
